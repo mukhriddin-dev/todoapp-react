@@ -12,7 +12,7 @@ const content = () => {
       eng: {
          day: "DAY",
          night: "NIGHT",
-         cardtext: "his is card title",
+         cardtext: "this is card title",
          bytext: "POWERED BY"
       }
    }
